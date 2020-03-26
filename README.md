@@ -12,13 +12,18 @@
 
 # Introduction to Python, Online Lab Self Paced edition
 
-
 This lab is designed for those trying to explore and learn about Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
 These tutorials will be using Python 3.7 inside the Jupyter Notebook. 
 <h4> How do I install Python? </h4>
 Check out the [Python_Installation.md](https://github.com/resbaz/Intro_Python_Nov2017/blob/master/Python_Installation.md)
-instruction file. 
+instruction file. <br>
+
+# Wondering how Python is used for research? Watch this video!
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VimJQ-mIAik/0.jpg)](https://youtu.be/VimJQ-mIAik)
+
+
+
 
 ## What will I learn? 
 
