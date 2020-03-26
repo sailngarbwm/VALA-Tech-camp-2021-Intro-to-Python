@@ -1,11 +1,13 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161947002-2"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161947002-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-161947002-2');
+  gtag('config', 'UA-161947002-3');
+</script>
+
 </script>
 
 # Introduction to Python, Online Lab Self Paced edition
@@ -24,9 +26,9 @@ instruction file.
 
 |**Skill**|**Link**|
 |---:|---|
-|Introduction to Jupyter Notebooks and Python|Click here |
-|Lists |Click here |
-|Dictionaries | Click here |
+|Introduction to Jupyter Notebooks and Python|[Click Here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/01%20-%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
+|Lists |[Click here ](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/02%20-%20Lists.ipynb)|
+|Dictionaries | [Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/03%20-%20Dictionaries.ipynb) |
 
 <h4> Part 2 module covers: </h4>
 
