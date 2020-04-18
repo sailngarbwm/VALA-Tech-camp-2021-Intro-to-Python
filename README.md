@@ -22,28 +22,30 @@ instruction file. <br>
 # Wondering how Python is used for research? Watch this video!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VimJQ-mIAik/0.jpg)](https://youtu.be/VimJQ-mIAik)
 
+## Access to a cloud instance of the repository:
+Note sure if you want to go through the hassle of installing python? Then You can run this repository on a cloud instance, and try before you buy!
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master)
 
 ## What will I learn? 
 
 <h4> Part 1 Module covers: </h4>
 
-|**Skill**|**Link**|
-|---:|---|
-|Introduction to Jupyter Notebooks and Python|[Click Here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/01%20-%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
-|Lists |[Click here ](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/02%20-%20Lists.ipynb)|
-|Dictionaries | [Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/03%20-%20Dictionaries.ipynb) |
+|**Skill**|**Link**|**Cloud Notebook**|
+|---:|---|---|
+|Introduction to Jupyter Notebooks and Python|[Click Here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%201/01%20-%20Introduction%20to%20Jupyter%20and%20Python.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F01%20-%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
+|Lists Part a: Creating indexing and slicing lists|[Click here ](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%201/02a%20Creating,%20indexing,%20and%20slicing%20lists.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F02a%20Creating%2C%20indexing%2C%20and%20slicing%20lists.ipynb)|
+|Lists Part b: list methods|[Click Here ](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%201/02b%20List%20methods.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F02b%20List%20methods.ipynb)|
+|Dictionaries, the other way to store data | [Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/blob/master/Part%201/03%20-%20Dictionaries.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F03%20-%20Dictionaries.ipynb)|
 
 <h4> Part 2 module covers: </h4>
 
-|**Skill**| **Link**|
-|---:|---|
-|Summary of Part 1|Click here|
-|If statements |Click here |
-|loops |Click here|
-|Functions |Click here|
-|Next steps? |Click here|
+|**Skill**| **Link**|**Cloud Notebook**|
+|---:|---|---|
+|If statements and logic |[Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%202/04%20-%20Conditionals%20and%20If%20statements.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%202%2F04%20-%20Conditionals%20and%20If%20statements.ipynb)|
+|Introduction to loops |[Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%202/05%20-%20Introduction%20to%20loops.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%202%2F05%20-%20Introduction%20to%20loops.ipynb)|
+|Create your own functions |[Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%202/06%20-%20Creating%20your%20own%20functions.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%202%2F06%20-%20Creating%20your%20own%20functions.ipynb)|
+|A quick tour of usefull libraries for research |[Click here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/Part%202/07%20-%20A%20tour%20of%20some%20of%20the%20cooler%20Python%20Features%20for%20researchers.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%202%2F07%20-%20A%20tour%20of%20some%20of%20the%20cooler%20Python%20Features%20for%20researchers.ipynb)|
 
 
 
