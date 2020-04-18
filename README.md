@@ -12,7 +12,7 @@
 
 # Introduction to Python, Online Lab Self Paced edition
 
-This lab is designed for those trying to explore and learn about Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
+This lab is designed for those trying to explore and learn about Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. See [here](https://gitlab.unimelb.edu.au/rescom-training/python/introduction-to-python-for-researchers/-/blob/master/intro.md) for a detailed description of the course.
 
 These tutorials will be using Python 3.7 inside the Jupyter Notebook. 
 <h4> How do I install Python? </h4>
