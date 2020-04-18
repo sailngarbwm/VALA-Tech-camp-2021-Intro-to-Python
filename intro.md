@@ -49,13 +49,13 @@ This training aims to enable students to:
 
 #### Virtual Training
 
-The Introduction to Python workshop consists of two 4-hour parts. Sessions start with a half hour zoom session, followed by self paced modules, with the instructor and reslead volunteer assistants on slack to discuss challenges at the end of the 4 hour session.
+The Introduction to Python workshop consists of two 4-hour parts. Sessions start with an half long zoom session, followed by self paced modules, with the instructor and reslead volunteer assistants on slack to discuss challenges periodically.
 
 - **Duration:** 8 hours.
   
 - **Frequency:** Monthly.
   
-- **Mode of presentation:** 2 hours of with a 5% e-learning video component.
+- **Mode of presentation:** 4 hours of zoom instruction with a 5% e-learning video component.
 
 #### In Person Training
 
