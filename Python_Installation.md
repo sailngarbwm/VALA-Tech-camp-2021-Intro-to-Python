@@ -32,7 +32,6 @@ For windows devices - if you are not sure and are using windows 7, 8, 9 or 10, t
 Please ensure that you allow Anaconda to register it's version as Python as the default on your device. This means that, if you already have Python installed (as MacOS does natively), you are allowing Anaconda to use it's own version of Python - and the associated packages - when you are coding. If you change this option you will run into errors when trying to use your packages, and in particular, when trying to run the jupyter notebook required for this workshop.
 
 
-
 ## Installing Python Through Miniconda
 
 This is the better option for people with limited memory left on their device. This option will install base Python onto your device, and allows you to install specific packages according to your requirements.  
@@ -99,7 +98,7 @@ You may also edit `~/.bash_profile` and remove the miniconda directory from your
 
 ## Setting up the virtual environment and installing packages
 
-We will go ahead and introduce a best practice and python programming from the beginning. Like we mentioned above, the true power of python is in the thousands of open source libraries (also  known as packages) that often do almost exaclty what you would like to do in one line of code and are constantly being updated to fix bugs and add new features. As you python more and more, you may find that you have different projects that require different sets of packages and maybe even an older or newer version. That's why we suggest creating a "virtual environment" for each project you work on, where you can manage the version of python and all the packages independent of every other project, and the base environment created when you install anaconda. Now there is a program called anaconda navigator where you can create virtual environments and install python packages, but we will show you on the command line way of doing things, which is faster, and when you graduate to Pythonista cloud school, will be the way you do things when working with big data!
+We will go ahead and introduce a best practice and python programming from the beginning. Like we mentioned above, the true power of python is in the thousands of open source libraries (also known as packages) that often do almost exaclty what you would like to do in one line of code and are constantly being updated to fix bugs and add new features. As you python more and more, you may find that you have different projects that require different sets of packages and maybe even an older or newer version. That's why we suggest creating a "virtual environment" for each project you work on, where you can manage the version of python and all the packages independent of every other project, and the base environment created when you install anaconda. Now there is a program called anaconda navigator where you can create virtual environments and install python packages ([see here to learn how to use it](https://docs.anaconda.com/anaconda/navigator/getting-started/#navigator-managing-environments)), but we will show you on the command line way of doing things, which is faster, and when you graduate to Pythonista cloud school, will be the way you do things when working with big data!
 
 #### If you are in windows
 find and open a program called `Anaconda Prompt` from the Windows Start Menu. 
