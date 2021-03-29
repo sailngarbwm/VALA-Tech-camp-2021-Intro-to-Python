@@ -246,3 +246,22 @@ __[Note: MacOS has Python installed as part of the operating system. To use Pyth
 
 
 
+
+# IDE vs Text Editors vs Jupyter Notebook 
+
+While we will be learning in the Jupyter environment, you may find this a bit heavy for your day-to-day coding life. 
+There are a number of light-weight text editors and Integrative Development Environments (IDEs) freely available on the internet. /<br>
+<h4> What's the difference </h4>
+The primary difference is that IDEs allow you write and run your code all within the same program. On the other hand, text editors only allow you to write the code - to run them you have to use the command line. Either of these options can be more appropriate for you, depending on how you want to use them. 
+
+IDEs:
+- Spyder. This comes installed with the Anaconda package, and you should be able to find it in your system's programs list after installation
+- [Pycharm](https://www.jetbrains.com/pycharm/). This one has a free community-edition license, but anybody working on research which could be patented, beware! The pycharm owners dislike the free version being used on for-profit projects, and the licensing reflects this.
+- [VScode](https://code.visualstudio.com/docs/python/python-tutorial); Microsoft lightweight editor with a couple of extensions for interactive coding (and my fave!)
+
+Text Editors:
+- [Atom](https://atom.io/). Free. No ads. Allows Git/Github integration
+- [Sublime Text](https://www.sublimetext.com/). Unlimited free license. Occasional pop-up ads. 
+
+---
+
