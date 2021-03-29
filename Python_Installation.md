@@ -140,9 +140,21 @@ You should see that now on the left hand side, there is a `(VALA_tech_camp)` wri
 Now that our environment is activated, we can start customizing this python install. to install the packages needed for our workshop enter the following command into the terminal and press enter:
 
 ```bash
-conda install jupyter numpy pandas matplotlib bokeh
+conda install jupyter
 ```
 after you hit `ENTER`, like most anaconda commands where you are changing something, it will ask you to type `y` and `ENTER` again to confirm.
+
+After that you need to install pip, which allows us to install Python packages outside of anaconda:
+
+```bash
+conda install pip
+```
+
+and when you are done with that we will install packages specified in the requirements file:
+
+```bash
+pip install -r
+```
 
 Don't close your termal yet, because we can use it to start a jupyter notebook
 
