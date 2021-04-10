@@ -28,7 +28,7 @@ Note sure if you want to go through the hassle of installing python? Then You ca
 |Long Break|30 minutes|--|--|
 |Part 3 - storing data in dictionaries |30 minutes|[Click here](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb)|
 |Short Break 2|5 minutes|--|--|
-|Part 4 - Introduction to packages and final exercise|55 minutes|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204%20-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb)|
+|Part 4 - Introduction to packages and final exercise|55 minutes|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204%20-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204%20-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|
 
 
 
