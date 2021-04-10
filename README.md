@@ -20,13 +20,15 @@ Note sure if you want to go through the hassle of installing python? Then You ca
 
 <h4> Our workshop has five parts: </h4>
 
-|**Skill**|**Link**|
-|---:|---|
-|Part 1- a fun intro to Python and Jupyter notebooks|[Click here ](https://github.com//sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201-%20a%20fun%20intro%20to%20Python%20and%20Jupyter%20notebooks.ipynb)| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F01%20-%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
-|Part 2- special powers for solving our problem with functions |[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%202-%20special%20powers%20for%20solving%20our%20problem%20with%20functions%20.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F02a%20Creating%2C%20indexing%2C%20and%20slicing%20lists.ipynb)|
-|Part 3- fundamentals of python lists|[Click Here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203-%20fundamentals%20of%20python%20lists.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F02b%20List%20methods.ipynb)|
-|Part 4- storing data in dictionaries | [Click here](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204-%20storing%20data%20in%20dictionaries.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.unimelb.edu.au%2Frescom-training%2Fpython%2Fintroduction-to-python-for-researchers.git/master?filepath=%2FPart%201%2F03%20-%20Dictionaries.ipynb)|
-|Part 5-  Introduction to packages and final exercise|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%205-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|
+|**Skill**|**time**|**View**|**Run in Collab**|
+|---:|---|---|---|
+|Part 1 - An Introduction to Jupyter and Python|55 min|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
+|Short Break 1|5 minutes|--|--|
+|Part 2 - fundamentals of python lists |55 minutes|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%202%20-%20fundamentals%20of%20python%20lists.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%202%20-%20fundamentals%20of%20python%20lists.ipynb)|
+|Long Break|30 minutes|--|--|
+|Part 3 - storing data in dictionaries |30 minutes|[Click here](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb)|
+|Short Break 2|5 minutes|--|--|
+|Part 4 - Introduction to packages and final exercise|55 minutes|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204%20-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb)|
 
 
 
