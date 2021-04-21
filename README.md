@@ -13,7 +13,7 @@ These tutorials will be using Python 3.9 inside the Jupyter Notebook. You can ru
 
 ### In the cloud:
 
-Not sure if you want to go through the hassle of installing python? Then You can run this repository on a cloud instance, and try before you buy!
+Not sure if you want to go through the hassle of installing python? Then You can run this repository on a cloud instance, and try before you buy (Note Python is still free though)!
 
 There are two ways to do this. One is to open up the repository in Binder, a free cloud machine that will allow you to run all the notebooks. Click on the "launch binder" button below to create your own personal jupyter cloud machine! 
 
@@ -30,6 +30,9 @@ Check out the [installation instructions](Python_Installation.md). **Note** You 
 
 
 ## What will I learn? 
+- How to use a Jupyter notebook
+- How to use the basic building blocks of python, including integers, floats, strings, lists, and dictionaries, as well as functions and methods
+- How to use two python libraries that are handy for managing spreadsheets and creating Dublin Core XML files.
 
 <h4> Our workshop has five parts: </h4>
 
